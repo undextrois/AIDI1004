@@ -5,7 +5,7 @@ This Python script is a Flask-based web API designed to detect emotions from **t
 It uses **pre-trained AI models** for emotion classification and **OpenCV** for face detection.
 
 ### Author Information
-- **Author:** Alexander Sanchez  
+- **Author:** A.Sanchez  
 - **Date:** June 16, 2025  
 - **Version:** 1.0  
 - **License:** MIT  
